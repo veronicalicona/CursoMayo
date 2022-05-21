@@ -1,0 +1,7 @@
+Orange\Page\LoginPage.class
+Orange\Page\PimPage.class
+Orange\Steps\ButtonPages.class
+Orange\Test\RunnersFeature.class
+Orange\Definitions\DefinitionsSteps.class
+Orange\Steps\Questions.class
+Orange\Steps\Conexion.class
